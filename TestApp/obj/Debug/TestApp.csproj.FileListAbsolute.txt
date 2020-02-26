@@ -1,0 +1,7 @@
+D:\Project VS 2017\SeleniumHaiQuan\TestApp\bin\Debug\TestApp.exe.config
+D:\Project VS 2017\SeleniumHaiQuan\TestApp\bin\Debug\TestApp.exe
+D:\Project VS 2017\SeleniumHaiQuan\TestApp\bin\Debug\TestApp.pdb
+D:\Project VS 2017\SeleniumHaiQuan\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+D:\Project VS 2017\SeleniumHaiQuan\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\Project VS 2017\SeleniumHaiQuan\TestApp\obj\Debug\TestApp.exe
+D:\Project VS 2017\SeleniumHaiQuan\TestApp\obj\Debug\TestApp.pdb

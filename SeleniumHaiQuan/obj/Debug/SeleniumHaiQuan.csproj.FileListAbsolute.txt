@@ -1,0 +1,13 @@
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\obj\Debug\SeleniumHaiQuan.csproj.CoreCompileInputs.cache
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\bin\Debug\SeleniumHaiQuan.exe.config
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\bin\Debug\SeleniumHaiQuan.exe
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\bin\Debug\SeleniumHaiQuan.pdb
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\bin\Debug\WebDriver.dll
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\bin\Debug\WebDriver.xml
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\obj\Debug\SeleniumHaiQuan.csproj.CopyComplete
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\obj\Debug\SeleniumHaiQuan.exe
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\obj\Debug\SeleniumHaiQuan.pdb
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\bin\Debug\HtmlAgilityPack.dll
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\bin\Debug\HtmlAgilityPack.pdb
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\bin\Debug\HtmlAgilityPack.xml
+D:\Project VS 2017\SeleniumHaiQuan\SeleniumHaiQuan\obj\Debug\SeleniumHaiQuan.csprojAssemblyReference.cache
